@@ -1,0 +1,1 @@
+export let categories = ["All","Shirts","Jeans","Sweaters","Jackets"]
